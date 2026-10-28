@@ -1,0 +1,10 @@
+{
+  "name": "sdai-notes-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Мобильное приложение «Заметки команды» и его API (тестовый проект для демо self-developer-ai)",
+  "scripts": {
+    "test": "pnpm -r test"
+  },
+  "packageManager": "pnpm@9.15.4"
+}
